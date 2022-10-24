@@ -18,6 +18,14 @@
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="40" height="40" />
   </a>
   
+  <a href="https://nextjs.org/docs/getting-started" target="_blank" rel="noreferrer">
+    <img src="https://vitejs.dev/logo.svg" alt="Next" width="40" height="40" />
+  </a>
+  
+  <a href="https://nextjs.org/docs/getting-started" target="_blank" rel="noreferrer">
+    <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/4e9d0/nextjs-logo.png" alt="Next" width="39" height="39" />
+  </a>
+  
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
