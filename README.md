@@ -6,7 +6,7 @@
 
 - 🔥 Junior Fullstack Developer 
 
-- 🔭 I’m currently studding at [Rocketseat](https://github.com/Rocketseat) and [Estacio](https://estacio.br)
+- 🔭 I am currently studying web development at [Rocketseat](https://github.com/Rocketseat) and information technology at [Estacio](https://estacio.br)
 
 - 👨‍💻 More at [joaoandrade.com](https://joaoandrade.com)
 
