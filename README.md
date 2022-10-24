@@ -6,11 +6,11 @@
 
 - 🔥 Junior Fullstack Developer 
 
-- 🔭 I am currently studying web development at [Rocketseat](https://github.com/Rocketseat) and information technology at [Estacio](https://estacio.br)
-
-- 👨‍💻 More at [joaoandrade.com](https://joaoandrade.com)
+- 🔭 I am currently studying _Web Development_ at [Rocketseat](https://github.com/Rocketseat) and _I.T_ at [Estacio](https://estacio.br)
 
 - 📚 Take a look at mine [Storybook Design System](https://jbandrade-dev.github.io/design-system/)
+
+- 👨‍💻 More at [joaoandrade.com](https://joaoandrade.com)
 
 ## Languages and Tools
 
