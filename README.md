@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=joaoandradefilho&color=yellow" alt="Profile views" /> 
 </p>
 
-- 🔥 Junior Fullstack Developer 
+- 🔥 Junior Frontend Developer 
 
 - 🔭 Currently studying at [Rocketseat](https://github.com/Rocketseat)
 
