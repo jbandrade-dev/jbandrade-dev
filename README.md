@@ -1,6 +1,6 @@
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, i'm João Andrade
 
-## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, i'm João Andrade
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=joaoandradefilho&color=yellow" alt="Profile views" /> 
@@ -16,7 +16,7 @@
 
 - 🔗 More at [joaoandrade.com](https://joaoandrade.com)
 
-## Languages and Tools
+### Languages and Tools
 
 <p align="left">
   
