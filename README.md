@@ -6,7 +6,7 @@
 
 - 🔥 Junior Fullstack Developer 
 
-- 🔭 Currently studying at [Rocketseat](https://github.com/Rocketseat) and [Estacio](https://estacio.br)
+- 🔭 Currently studying at [Rocketseat](https://github.com/Rocketseat)
 
 - 📚 Look my [Storybook](https://jbandrade-dev.github.io/design-system/)
 
