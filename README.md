@@ -1,3 +1,5 @@
+---
+
 ## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, i'm João Andrade
 
 <p align="left"> 
@@ -8,9 +10,11 @@
 
 - 🔭 Currently studying at [Rocketseat](https://github.com/Rocketseat)
 
-- 📚 Look my [Storybook](https://jbandrade-dev.github.io/design-system/)
+- 🔗 My [Storybook](https://jbandrade-dev.github.io/design-system/)
 
-- 👨‍💻 More at [joaoandrade.com](https://joaoandrade.com)
+- 🔗 My [Linkedin](https://www.linkedin.com/in/jbandrade/)
+
+- 🔗 More at [joaoandrade.com](https://joaoandrade.com)
 
 ## Languages and Tools
 
@@ -52,6 +56,7 @@
   </a>
 </p>
 
+---
 
 <p align="center">
   Made with 💜&nbsp; by <a href="https://www.linkedin.com/in/jbandrade/">João Andrade</a>
