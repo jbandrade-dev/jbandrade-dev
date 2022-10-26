@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  Made with 💜&nbsp; by <a href="https://www.linkedin.com/in/jbandrade/">João Andrade</a>
+  Made with ❤&nbsp; by <a href="https://www.linkedin.com/in/jbandrade/">João Andrade</a>
 </p>
