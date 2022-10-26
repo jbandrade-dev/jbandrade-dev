@@ -1,6 +1,8 @@
-### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, i'm João Andrade
+
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+
+### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, i'm João Andrade
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=joaoandradefilho&color=yellow" alt="Profile views" /> 
